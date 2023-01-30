@@ -1,0 +1,30 @@
+/* style.css */
+
+#capsuck {
+    background-color: red;
+    font-size: 32px;
+    color: white;
+    align-self: center;
+    font-weight: bold;
+}
+
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+button {
+    background-color: orange;
+    font-size: 18px;
+    color: white;
+}
+
+img {
+    scale: 50%;
+}
+
+#crime {
+    color: red;
+    font-style: italic;
+}
