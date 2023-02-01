@@ -8,7 +8,7 @@
     font-weight: bold;
 }
 
-p {
+.hasan {
     background-color: green;
     color: white;
     font-size: 18px;
@@ -27,4 +27,23 @@ img {
 #crime {
     color: red;
     font-style: italic;
+}
+
+.odd {
+    background-color: red;
+    font:  Verdana, DejaVu Sans, sans-serif;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+#three{
+    font-size: 24px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
 }
